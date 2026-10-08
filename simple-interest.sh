@@ -30,3 +30,4 @@ echo "Time Period:       $time years"
 echo "--------------------------------------------"
 echo "Simple Interest:   $simple_interest"
 echo "============================================"
+# Additional fix
