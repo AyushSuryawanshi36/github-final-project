@@ -1,30 +1,27 @@
 $ git branch
-* master
+* main
   bug-fix-typo
   bug-fix-revert
 
-$ git branch -a
-* master
-  bug-fix-typo
-  bug-fix-revert
-  remotes/origin/master
-  remotes/origin/bug-fix-typo
-  remotes/origin/bug-fix-revert
+$ git branch -vv
+  bug-fix-revert a013c9e [origin/bug-fix-revert] Revert: restore original rate calculation logic
+  bug-fix-typo   6988e4f [origin/bug-fix-typo] Fix: correct variable naming in script
+* main           cf42d8e [origin/main] Fix: update CLI output files with correct branch and PR data
 
 $ git remote show origin
 * remote origin
   Fetch URL: https://github.com/AyushSuryawanshi36/simple-interest-calculator.git
   Push  URL: https://github.com/AyushSuryawanshi36/simple-interest-calculator.git
-  HEAD branch: master
+  HEAD branch: main
   Remote branches:
     bug-fix-revert tracked
     bug-fix-typo   tracked
-    master         tracked
+    main           tracked
   Local branches configured for 'git pull':
     bug-fix-revert merges with remote bug-fix-revert
     bug-fix-typo   merges with remote bug-fix-typo
-    master         merges with remote master
+    main           merges with remote main
   Local refs configured for 'git push':
     bug-fix-revert pushes to bug-fix-revert (up to date)
     bug-fix-typo   pushes to bug-fix-typo   (up to date)
-    master         pushes to master         (up to date)
+    main           pushes to main           (up to date)
