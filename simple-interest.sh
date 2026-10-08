@@ -31,3 +31,4 @@ echo "--------------------------------------------"
 echo "Simple Interest:   $simple_interest"
 echo "============================================"
 # Additional fix
+# Revert: restored original rate calculation
