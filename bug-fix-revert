@@ -7,38 +7,36 @@ $ curl https://api.github.com/repos/AyushSuryawanshi36/simple-interest-calculato
   "html_url": "https://github.com/AyushSuryawanshi36/simple-interest-calculator/pull/1",
   "number": 1,
   "state": "open",
-  "title": "Fix: correct variable naming in script",
+  "title": "Fix: correct variable naming in simple-interest script",
   "user": {
     "login": "AyushSuryawanshi36",
     "id": 176492869,
-    "type": "User"
+    "type": "User",
+    "site_admin": false
   },
   "body": "This pull request fixes the typo and corrects variable naming in the simple interest script.",
   "head": {
     "label": "AyushSuryawanshi36:bug-fix-typo",
     "ref": "bug-fix-typo",
-    "sha": "6988e4f",
-    "repo": {
-      "id": 1410849044,
-      "name": "simple-interest-calculator",
-      "full_name": "AyushSuryawanshi36/simple-interest-calculator",
-      "html_url": "https://github.com/AyushSuryawanshi36/simple-interest-calculator",
-      "fork": true,
-      "parent": {
-        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
-      }
-    }
-  },
-  "base": {
-    "label": "AyushSuryawanshi36:master",
-    "ref": "master",
-    "sha": "ea9a0d9",
+    "sha": "6988e4f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8",
     "repo": {
       "id": 1410849044,
       "name": "simple-interest-calculator",
       "full_name": "AyushSuryawanshi36/simple-interest-calculator",
       "html_url": "https://github.com/AyushSuryawanshi36/simple-interest-calculator",
       "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "sha": "807ec84f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d",
+    "repo": {
+      "id": 598734211,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "fork": false
     }
   }
 }

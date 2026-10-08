@@ -1,9 +1,30 @@
 $ git branch
 * master
   bug-fix-typo
+  bug-fix-revert
 
 $ git branch -a
 * master
   bug-fix-typo
-  remotes/origin/bug-fix-typo
+  bug-fix-revert
   remotes/origin/master
+  remotes/origin/bug-fix-typo
+  remotes/origin/bug-fix-revert
+
+$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/AyushSuryawanshi36/simple-interest-calculator.git
+  Push  URL: https://github.com/AyushSuryawanshi36/simple-interest-calculator.git
+  HEAD branch: master
+  Remote branches:
+    bug-fix-revert tracked
+    bug-fix-typo   tracked
+    master         tracked
+  Local branches configured for 'git pull':
+    bug-fix-revert merges with remote bug-fix-revert
+    bug-fix-typo   merges with remote bug-fix-typo
+    master         merges with remote master
+  Local refs configured for 'git push':
+    bug-fix-revert pushes to bug-fix-revert (up to date)
+    bug-fix-typo   pushes to bug-fix-typo   (up to date)
+    master         pushes to master         (up to date)
