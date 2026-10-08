@@ -21,9 +21,9 @@ $ curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduct
     "sha": "6988e4f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8",
     "repo": {
       "id": 1410849044,
-      "name": "simple-interest-calculator",
-      "full_name": "AyushSuryawanshi36/simple-interest-calculator",
-      "html_url": "https://github.com/AyushSuryawanshi36/simple-interest-calculator",
+      "name": "github-final-project",
+      "full_name": "AyushSuryawanshi36/github-final-project",
+      "html_url": "https://github.com/AyushSuryawanshi36/github-final-project",
       "fork": true,
       "parent": {
         "name": "mcino-Introduction-to-Git-and-GitHub",

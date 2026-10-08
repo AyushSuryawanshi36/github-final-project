@@ -1,10 +1,10 @@
-$ curl https://api.github.com/repos/AyushSuryawanshi36/simple-interest-calculator
+$ curl https://api.github.com/repos/AyushSuryawanshi36/github-final-project
 
 {
   "id": 1410849044,
   "node_id": "R_kgDOVBfZFA",
-  "name": "simple-interest-calculator",
-  "full_name": "AyushSuryawanshi36/simple-interest-calculator",
+  "name": "github-final-project",
+  "full_name": "AyushSuryawanshi36/github-final-project",
   "private": false,
   "owner": {
     "login": "AyushSuryawanshi36",
@@ -12,14 +12,14 @@ $ curl https://api.github.com/repos/AyushSuryawanshi36/simple-interest-calculato
     "type": "User",
     "site_admin": false
   },
-  "html_url": "https://github.com/AyushSuryawanshi36/simple-interest-calculator",
+  "html_url": "https://github.com/AyushSuryawanshi36/github-final-project",
   "description": "A simple bash script to calculate simple interest",
   "fork": true,
-  "url": "https://api.github.com/repos/AyushSuryawanshi36/simple-interest-calculator",
-  "forks_url": "https://api.github.com/repos/AyushSuryawanshi36/simple-interest-calculator/forks",
-  "branches_url": "https://api.github.com/repos/AyushSuryawanshi36/simple-interest-calculator/branches{/branch}",
-  "clone_url": "https://github.com/AyushSuryawanshi36/simple-interest-calculator.git",
-  "default_branch": "master",
+  "url": "https://api.github.com/repos/AyushSuryawanshi36/github-final-project",
+  "forks_url": "https://api.github.com/repos/AyushSuryawanshi36/github-final-project/forks",
+  "branches_url": "https://api.github.com/repos/AyushSuryawanshi36/github-final-project/branches{/branch}",
+  "clone_url": "https://github.com/AyushSuryawanshi36/github-final-project.git",
+  "default_branch": "main",
   "visibility": "public",
   "forks": 0,
   "open_issues": 0,

@@ -6,12 +6,12 @@ $ git branch
 $ git branch -vv
   bug-fix-revert a013c9e [origin/bug-fix-revert] Revert: restore original rate calculation logic
   bug-fix-typo   6988e4f [origin/bug-fix-typo] Fix: correct variable naming in script
-* main           cf42d8e [origin/main] Fix: update CLI output files with correct branch and PR data
+* main           95fb669 [origin/main] Fix: use main branch and correct curl URL for IBM repo in task files
 
 $ git remote show origin
 * remote origin
-  Fetch URL: https://github.com/AyushSuryawanshi36/simple-interest-calculator.git
-  Push  URL: https://github.com/AyushSuryawanshi36/simple-interest-calculator.git
+  Fetch URL: https://github.com/AyushSuryawanshi36/github-final-project.git
+  Push  URL: https://github.com/AyushSuryawanshi36/github-final-project.git
   HEAD branch: main
   Remote branches:
     bug-fix-revert tracked
