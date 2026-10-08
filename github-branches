@@ -1,0 +1,9 @@
+$ git branch
+* master
+  bug-fix-typo
+
+$ git branch -a
+* master
+  bug-fix-typo
+  remotes/origin/bug-fix-typo
+  remotes/origin/master
